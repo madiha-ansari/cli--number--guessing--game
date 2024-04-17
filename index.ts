@@ -19,3 +19,9 @@ if(answers.userGuessNumber === randomNumber){
     console.log("congratulations! you guess right number.")
 }else{console.log("you guess wrong number.")}
 console.log(randomNumber);
+
+
+
+
+
+
